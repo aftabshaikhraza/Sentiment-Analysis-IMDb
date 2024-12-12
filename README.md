@@ -28,6 +28,21 @@ Results
 Dataset
 
 The IMDb Large Movie Review Dataset is provided in the repositary in zip format.
+Update:- I am having trouble uploading all the whole dataset in the repo so I'll just leave the link where you can download the dataset and ZIP it using any online ZIP tool 
+https://ai.stanford.edu/~amaas/data/sentiment/
+
+Credits for this dataset 
+@InProceedings{maas-EtAl:2011:ACL-HLT2011,
+  author    = {Maas, Andrew L.  and  Daly, Raymond E.  and  Pham, Peter T.  and  Huang, Dan  and  Ng, Andrew Y.  and  Potts, Christopher},
+  title     = {Learning Word Vectors for Sentiment Analysis},
+  booktitle = {Proceedings of the 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies},
+  month     = {June},
+  year      = {2011},
+  address   = {Portland, Oregon, USA},
+  publisher = {Association for Computational Linguistics},
+  pages     = {142--150},
+  url       = {http://www.aclweb.org/anthology/P11-1015}
+}
 
 References
 	1.	Maas, A. L., Daly, R. E., Pham, P. T., Huang, D., Ng, A. Y., & Potts, C. (2011). Learning Word Vectors for Sentiment Analysis. ACL 2011.
